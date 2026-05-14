@@ -19,7 +19,7 @@
 ## 文件结构
 
 ```text
-西安交通大学Beamer/
+ZXJTU_Beamer/
 ├── ZXJTU.cls            # 模板类文件
 ├── Beamer.tex           # 通用演示示例
 ├── problem_modeling.tex # 实际汇报示例
@@ -175,4 +175,4 @@ latexmk -xelatex problem_modeling.tex
 
 本模板在 Beamer 基础能力之上进行了中文汇报场景下的整理与封装，适合继续按个人或团队需求二次扩展。
 
-如果你觉得这个模板有帮助，欢迎在 GitHub 上使用、修改和分享。
+如果你觉得这个模板有帮助，欢迎在 GitHub 上使用、修改和分享。(别忘了给个star~)
